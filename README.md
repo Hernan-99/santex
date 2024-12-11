@@ -2,6 +2,7 @@
 Figma: https://www.figma.com/design/lKZWPXvOJ8WSMQ15aSB6r3/landing-page?node-id=2162-2494&t=i85D9ntxs1mTn6Qu-1
 
 imagenes:
+
 https://vvtk-arg.netlify.app/_nuxt/card-img-1.CT3WXj1v.webp
 https://vvtk-arg.netlify.app/_nuxt/card-img-2.DNizqKR-.webp
 https://vvtk-arg.netlify.app/_nuxt/card-img-3.C0uiY_Zh.webp
@@ -12,6 +13,7 @@ https://www.vivotek-argentina.com.ar/wp-content/uploads/2024/09/vast_2.png
 https://www.vivotek-argentina.com.ar/wp-content/uploads/2024/09/vss-300px.png
 
 textos:
+
 Ver más inteligente
 VIVOTEK desarrolla tecnología inteligente con análisis de contenido avanzado, su enfoque innovador incluye soluciones que no solo capturan imágenes de alta calidad, sino que también procesan y analizan los datos en tiempo real, mejorando la eficiencia y precisión en la detección de eventos. Gracias a estas capacidades avanzadas, VIVOTEK sigue liderando el mercado, ofreciendo productos que optimizan la seguridad y el monitoreo.
 

@@ -4,12 +4,19 @@ Figma: https://www.figma.com/design/lKZWPXvOJ8WSMQ15aSB6r3/landing-page?node-id=
 imagenes:
 
 https://vvtk-arg.netlify.app/_nuxt/card-img-1.CT3WXj1v.webp
+
 https://vvtk-arg.netlify.app/_nuxt/card-img-2.DNizqKR-.webp
+
 https://vvtk-arg.netlify.app/_nuxt/card-img-3.C0uiY_Zh.webp
+
 https://www.vivotek-argentina.com.ar/wp-content/uploads/2024/09/card1.png
+
 https://www.vivotek-argentina.com.ar/wp-content/uploads/2024/09/vivotek-sv-2.jpg
+
 https://www.vivotek-argentina.com.ar/wp-content/uploads/2024/09/card3.jpg
+
 https://www.vivotek-argentina.com.ar/wp-content/uploads/2024/09/vast_2.png
+
 https://www.vivotek-argentina.com.ar/wp-content/uploads/2024/09/vss-300px.png
 
 textos:
